@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <h2>React World tour</h2>
+    <h2 className='text-4xl text-center'>React World tour Awesome</h2>
      <Countries/>
     </>
   )
